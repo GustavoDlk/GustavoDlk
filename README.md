@@ -19,9 +19,12 @@
 
 ---
 
-### 👨‍💻 About Me
-I am a passionate and driven developer, constantly striving for excellence in both my professional career and personal growth. I thrive in collaborative environments and enjoy taking responsibility for delivering high-quality solutions.
+### 👨‍💻Sobre mim
+ Meu nome é Gustavo Deluka, sou um desenvolvedor full stack apaixonado por softwares e tecnologia. Sempre busco equilibrar diversão e profissionalismo em meus projetos. Confira no meu perfil alguns dos trabalhos que já realizei e as habilidades que domino!
 
+### 👨‍💻About me
+ My name is Gustavo Deluka, and I’m a Brazilian full-stack developer with a passion for softwares and technology. I strive to balance creativity and professionalism in all my projects. Be sure to check out my profile for some of the skills I bring to the table!
+ 
 - 💡 **Learning focus**: Improving my skills in JavaScript, TypeScript, and modern web frameworks.
 - 🌱 **Growth mindset**: Continuously looking for opportunities to enhance my knowledge and skills.
 - 📫 **Reach me at**: [gustavodeluka@gmail.com](mailto:gustavodeluka@gmail.com)
