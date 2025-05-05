@@ -11,12 +11,6 @@
   <em>“Technology moves the world.”</em> - Steve Jobs
 </p>
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=GustavoDlk&icon=0&color=FF8C00" alt="Profile Views">
-  </a>
-</p>
-
 ---
 
 ### 👨‍💻About me
