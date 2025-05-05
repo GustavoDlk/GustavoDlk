@@ -19,9 +19,6 @@
 
 ---
 
-### 👨‍💻Sobre mim
- Meu nome é Gustavo Deluka, sou um desenvolvedor full stack apaixonado por softwares e tecnologia. Sempre busco equilibrar diversão e profissionalismo em meus projetos. Confira no meu perfil alguns dos trabalhos que já realizei e as habilidades que domino!
-
 ### 👨‍💻About me
  My name is Gustavo Deluka, and I’m a Brazilian full-stack developer with a passion for softwares and technology. I strive to balance creativity and professionalism in all my projects. Be sure to check out my profile for some of the skills I bring to the table!
  
