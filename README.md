@@ -1,17 +1,6 @@
-<div align="center">
-   <img src="https://media.licdn.com/dms/image/v2/D4D16AQHgxwjLQFCkWA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729267706216?e=1752105600&v=beta&t=XpGYa5tDwEEnZShJCoCiQm3QHmudB2bTPUgsz2Mtk6Y" alt="Banner" width="100%"/>
-</div>
-
-<h1 align="center">Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Gustavo</h1>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFA700&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer)](https://git.io/typing-svg)
-
-
 <p align="center">
-  <em>“Technology moves the world.”</em> - Steve Jobs
+   <img src="https://capsule-render.vercel.app/api?type=waving&align=center&height=180&text=Welcome%20to%20my%20Github!&fontSize=60&&descAlignY=20&fontColor=fff&animation=twinkling&color=0:9e3295,40:0b5394,55:0b5394,75:3b00f8,96:3b00f8)" alt="Banner" width="100%"/>
 </p>
-
----
 
 ### 👨‍💻About me
  My name is Gustavo Deluka, and I’m a Brazilian full-stack developer with a passion for softwares and technology. I strive to balance creativity and professionalism in all my projects. Be sure to check out my profile for some of the skills I bring to the table!
@@ -19,6 +8,14 @@
 - 💡 **Learning focus**: Improving my skills in JavaScript, TypeScript, and modern web frameworks.
 - 🌱 **Growth mindset**: Continuously looking for opportunities to enhance my knowledge and skills.
 - 📫 **Reach me at**: [gustavodeluka@gmail.com](mailto:gustavodeluka@gmail.com)
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFA700&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer)](https://git.io/typing-svg)
+
+
+<p align="center">
+  <em>“Technology moves the world.”</em> - Steve Jobs
+</p>
 
 ---
 
@@ -58,3 +55,9 @@
 <div align="center">
    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=4000&pause=10&color=F78015&center=true&width=700&lines=Listen+to+advice+and+accept+instruction%2C+and+in+the+end+you+will+be+wise.;Proverbs+19%3A20" alt="Proverbs 19:20" />
 </div>
+
+
+<p align="center">
+   <img src="https://capsule-render.vercel.app/api?type=waving&height=140&fontSize=50&fontColor=fff&animation=twinkling&section=footer&color=100:9e3295,55:0b5394,25:3b00f8,0:3b00f8)" alt="Banner" width="100%"/>
+</p>
+ 
