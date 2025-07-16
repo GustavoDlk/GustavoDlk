@@ -3,7 +3,12 @@
 </p>
 
 ### 👨‍💻About me 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=194E8A&left=true&vCenter=true&width=1000&lines=Full+Stack+Developer)](https://git.io/typing-svg)
+<p align="left">
+  <em>“Technology moves the world.”</em> - Steve Jobs
+</p>
+
 
  My name is Gustavo Deluka, and I’m a Brazilian full-stack developer with a passion for softwares and technology. I strive to balance creativity and professionalism in all my projects. Be sure to check out my profile for some of the skills I bring to the table!
  
@@ -11,11 +16,6 @@
 - 🌱 **Growth mindset**: Continuously looking for opportunities to enhance my knowledge and skills.
 - 📫 **Reach me at**: [gustavodeluka@gmail.com](mailto:gustavodeluka@gmail.com)
 
-
-
-<p align="left">
-  <em>“Technology moves the world.”</em> - Steve Jobs
-</p>
 
 ---
 
@@ -52,8 +52,8 @@
 ---
 
 ### 💬 Quote to Live By
-<div align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=4000&pause=10&color=194E8A&center=true&width=700&lines=Listen+to+advice+and+accept+instruction%2C+and+in+the+end+you+will+be+wise.;Proverbs+19%3A20" alt="Proverbs 19:20" />
+<div align="left">
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=4000&pause=10&color=194E8A&left=true&width=700&lines=Listen+to+advice+and+accept+instruction%2C+and+in+the+end+you+will+be+wise.;Proverbs+19%3A20" alt="Proverbs 19:20" />
 </div>
 
 
