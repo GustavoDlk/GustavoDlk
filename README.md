@@ -8,7 +8,7 @@
 
  My name is Gustavo Deluka, and I’m a Brazilian full-stack developer with a passion for softwares and technology. I strive to balance creativity and professionalism in all my projects. Be sure to check out my profile for some of the skills I bring to the table!
  
-- 💡 **Learning focus**: Improving my skills in JavaScript, TypeScript, and modern web frameworks.
+- 💡 **Learning focus**: Improving my skills in Java, Spring Boot, and modern back-end development frameworks.
 - 🌱 **Growth mindset**: Continuously looking for opportunities to enhance my knowledge and skills.
 - 📫 **Reach me at**: [gustavodeluka@gmail.com](mailto:gustavodeluka@gmail.com)
 
