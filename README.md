@@ -38,14 +38,6 @@
 
 ---
 
-### 📈 My GitHub Stats
-<div align="center">
-   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gustavodlk&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=gustavodlk&theme=dark" alt="GitHub Streak"/>
-</div>
-
----
-
 ### 💬 Quote to Live By
 <div align="center">
    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=4000&pause=10&color=194E8A&center=true&width=700&lines=Listen+to+advice+and+accept+instruction%2C+and+in+the+end+you+will+be+wise.;Proverbs+19%3A20" alt="Proverbs 19:20" />
