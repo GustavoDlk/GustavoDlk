@@ -1,16 +1,46 @@
 <p align="center">
-   <img src="https://capsule-render.vercel.app/api?type=waving&align=center&height=180&text=Bem-vindo%20ao%20meu%20Github!&fontSize=60&&descAlignY=20&fontColor=fff&animation=twinkling&color=0:9e3295,40:0b5394,55:0b5394,75:3b00f8,96:3b00f8)" alt="Banner" width="100%"/>
+   <img src="https://capsule-render.vercel.app/api?type=waving&align=center&height=180&text=Bem-vindo%20ao%20meu%20Github!&fontSize=60&descAlignY=20&fontColor=fff&animation=twinkling&color=0:9e3295,40:0b5394,55:0b5394,75:3b00f8,96:3b00f8)" alt="Banner" width="100%"/>
 </p>
 
 ---
 
 ### 👨‍💻 Sobre mim
 
-Meu nome é Gustavo Deluka, sou um desenvolvedor **Full Stack brasileiro**, apaixonado por software e tecnologia. Busco equilibrar criatividade e profissionalismo em todos os meus projetos. Confira meu perfil para conhecer um pouco mais sobre minhas habilidades e experiências!
+Olá! Meu nome é **Gustavo Deluka**, sou **Software Developer Pleno** e desenvolvedor Full Stack brasileiro, apaixonado por tecnologia, desenvolvimento de software e resolução de problemas.
 
-- 💡 **Foco nos estudos:** Aperfeiçoando meus conhecimentos em Java, Spring Boot e frameworks modernos para desenvolvimento back-end.
-- 🌱 **Mentalidade de crescimento:** Buscando continuamente novas oportunidades para aprimorar meus conhecimentos e habilidades.
-- 📫 **Entre em contato:** [gustavodeluka@gmail.com](mailto:gustavodeluka@gmail.com)
+Atualmente, atuo na **Sankhya Gestão de Negócios**, no squad **Universidade Sankhya**, trabalhando no desenvolvimento e evolução de sistemas e soluções voltadas à educação e à experiência dos usuários.
+
+Tenho experiência no desenvolvimento **Back-end e Front-end**, atuando com diferentes tecnologias, bancos de dados, integrações e ambientes de desenvolvimento.
+
+Ao longo da minha carreira, venho trabalhando principalmente com:
+
+- 💻 **Desenvolvimento Full Stack** utilizando PHP, Java, JavaScript, React, HTML5 e CSS.
+- 🗄️ **Bancos de dados relacionais**, incluindo Oracle, SQL Server, MySQL e PostgreSQL.
+- 🐳 **Docker** para criação e gerenciamento de ambientes de desenvolvimento.
+- ☁️ **Amazon S3** para armazenamento e gerenciamento de arquivos e conteúdos.
+- 🎥 **Integração de streams de vídeo** e desenvolvimento de soluções voltadas para plataformas de ensino.
+- 📊 **Dashboards e sistemas de acompanhamento**, contribuindo para análise e tomada de decisões.
+- 🔄 **Integrações e APIs**, modelagem de dados e desenvolvimento de funcionalidades escaláveis.
+- 🚀 **Metodologias Ágeis**, com experiência em Scrum e Kanban.
+- 🔧 **Git, GitHub e GitLab** para versionamento e colaboração no desenvolvimento.
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+<div align="center">
+   <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=php,java,javascript,typescript,html,css,bootstrap,react,nodejs,spring,docker,aws,mysql,postgres,git,github,gitlab,linux,postman,figma" alt="Tecnologias e ferramentas"/>
+   </a>
+</div>
+
+---
+
+### 🚀 Atualmente
+
+Estou constantemente buscando evoluir como desenvolvedor, aprofundando meus conhecimentos em **arquitetura de software, desenvolvimento Back-end, APIs, integração de sistemas, bancos de dados e boas práticas de desenvolvimento**.
+
+Meu objetivo é continuar construindo soluções eficientes, escaláveis e que realmente gerem valor para o negócio e para os usuários.
 
 ---
 
@@ -25,16 +55,6 @@ Meu nome é Gustavo Deluka, sou um desenvolvedor **Full Stack brasileiro**, apai
    </a>
    <a href="https://instagram.com/gustavo_deluka" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-   </a>
-</div>
-
----
-
-### 💼 Habilidades Técnicas
-
-<div align="center">
-   <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,tailwind,sass,nodejs,nest,docker,figma,github,git,gitlab,linux,postman,bootstrap,postgres,discord,eclipse,idea,java,maven,mysql,php,spring,sublime,ubuntu" alt="Habilidades"/>
    </a>
 </div>
 
