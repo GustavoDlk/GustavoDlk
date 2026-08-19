@@ -1,20 +1,21 @@
 <p align="center">
-   <img src="https://capsule-render.vercel.app/api?type=waving&align=center&height=180&text=Welcome%20to%20my%20Github!&fontSize=60&&descAlignY=20&fontColor=fff&animation=twinkling&color=0:9e3295,40:0b5394,55:0b5394,75:3b00f8,96:3b00f8)" alt="Banner" width="100%"/>
+   <img src="https://capsule-render.vercel.app/api?type=waving&align=center&height=180&text=Bem-vindo%20ao%20meu%20Github!&fontSize=60&&descAlignY=20&fontColor=fff&animation=twinkling&color=0:9e3295,40:0b5394,55:0b5394,75:3b00f8,96:3b00f8)" alt="Banner" width="100%"/>
 </p>
 
 ---
 
-### 👨‍💻About me 
+### 👨‍💻 Sobre mim
 
- My name is Gustavo Deluka, and I’m a Brazilian full-stack developer with a passion for softwares and technology. I strive to balance creativity and professionalism in all my projects. Be sure to check out my profile for some of the skills I bring to the table!
- 
-- 💡 **Learning focus**: Improving my skills in Java, Spring Boot, and modern back-end development frameworks.
-- 🌱 **Growth mindset**: Continuously looking for opportunities to enhance my knowledge and skills.
-- 📫 **Reach me at**: [gustavodeluka@gmail.com](mailto:gustavodeluka@gmail.com)
+Meu nome é Gustavo Deluka, sou um desenvolvedor **Full Stack brasileiro**, apaixonado por software e tecnologia. Busco equilibrar criatividade e profissionalismo em todos os meus projetos. Confira meu perfil para conhecer um pouco mais sobre minhas habilidades e experiências!
+
+- 💡 **Foco nos estudos:** Aperfeiçoando meus conhecimentos em Java, Spring Boot e frameworks modernos para desenvolvimento back-end.
+- 🌱 **Mentalidade de crescimento:** Buscando continuamente novas oportunidades para aprimorar meus conhecimentos e habilidades.
+- 📫 **Entre em contato:** [gustavodeluka@gmail.com](mailto:gustavodeluka@gmail.com)
 
 ---
 
-### 🔗 Let's Connect
+### 🔗 Vamos nos conectar
+
 <div align="center">
    <a href="https://www.linkedin.com/in/gustavo-deluka-733a9b119/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -29,24 +30,16 @@
 
 ---
 
-### 💼 Technical Skills
+### 💼 Habilidades Técnicas
+
 <div align="center">
    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,tailwind,sass,nodejs,nest,docker,figma,github,git,gitlab,linux,postman,bootstrap,postgres,discord,eclipse,idea,java,maven,mysql,php,spring,sublime,ubuntu" alt="Skills"/>
+      <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,tailwind,sass,nodejs,nest,docker,figma,github,git,gitlab,linux,postman,bootstrap,postgres,discord,eclipse,idea,java,maven,mysql,php,spring,sublime,ubuntu" alt="Habilidades"/>
    </a>
 </div>
 
 ---
 
-### 💬 Quote to Live By
-<div align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=4000&pause=10&color=194E8A&center=true&width=700&lines=Listen+to+advice+and+accept+instruction%2C+and+in+the+end+you+will+be+wise.;Proverbs+19%3A20" alt="Proverbs 19:20" />
-</div>
-
----
-
-
 <p align="center">
    <img src="https://capsule-render.vercel.app/api?type=waving&height=140&fontSize=50&fontColor=fff&animation=twinkling&section=footer&color=100:9e3295,55:0b5394,25:3b00f8,0:3b00f8)" alt="Banner" width="100%"/>
 </p>
- 
