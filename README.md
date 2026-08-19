@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://capsule-render.vercel.app/api?type=waving&align=center&height=180&text=Bem-vindo%20ao%20meu%20Github!&fontSize=60&descAlignY=20&fontColor=fff&animation=twinkling&color=0:9e3295,40:0b5394,55:0b5394,75:3b00f8,96:3b00f8)" alt="Banner" width="100%"/>
+   <img src="https://capsule-render.vercel.app/api?type=waving&align=center&height=180&text=Bem-vindo%20ao%20meu%20Github!&fontSize=60&descAlignY=20&fontColor=fff&animation=twinkling&color=0:000000,40:333333,55:333333,75:000000,96:000000)" alt="Banner" width="100%"/>
 </p>
 
 ---
@@ -48,18 +48,20 @@ Meu objetivo é continuar construindo soluções eficientes, escaláveis e que r
 
 <div align="center">
    <a href="https://www.linkedin.com/in/gustavo-deluka-733a9b119/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
    </a>
+
    <a href="mailto:gustavodeluka@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+      <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
    </a>
+
    <a href="https://instagram.com/gustavo_deluka" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+      <img src="https://img.shields.io/badge/Instagram-333333?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
    </a>
 </div>
 
 ---
 
 <p align="center">
-   <img src="https://capsule-render.vercel.app/api?type=waving&height=140&fontSize=50&fontColor=fff&animation=twinkling&section=footer&color=100:9e3295,55:0b5394,25:3b00f8,0:3b00f8)" alt="Banner" width="100%"/>
+   <img src="https://capsule-render.vercel.app/api?type=waving&height=140&fontSize=50&fontColor=fff&animation=twinkling&section=footer&color=100:000000,55:333333,25:000000,0:000000)" alt="Banner" width="100%"/>
 </p>
