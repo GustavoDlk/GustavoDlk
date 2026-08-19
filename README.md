@@ -6,7 +6,7 @@
 
 ### 👨‍💻 Sobre mim
 
-Olá! Meu nome é **Gustavo Deluka**, sou **Software Developer Pleno** e desenvolvedor Full Stack brasileiro, apaixonado por tecnologia, desenvolvimento de software e resolução de problemas.
+Olá! Meu nome é **Gustavo Deluka**, sou **Software Developer**, apaixonado por tecnologia, desenvolvimento de software e resolução de problemas.
 
 Atualmente, atuo na **Sankhya Gestão de Negócios**, no squad **Universidade Sankhya**, trabalhando no desenvolvimento e evolução de sistemas e soluções voltadas à educação e à experiência dos usuários.
 
